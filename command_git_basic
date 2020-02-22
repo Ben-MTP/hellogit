@@ -39,7 +39,9 @@ git log --oneline --> commit in oneline
 
 ---------
 git reset --> remote con tro ve mot vi tri nao do
-HEAD
+git reset ma_log_commit. quay trở lại commit theo con tro HEAD chỉ định.
+
+
 
 
 
