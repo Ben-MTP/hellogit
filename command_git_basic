@@ -87,7 +87,7 @@ git branch -m old_name_branch new_name_branch
 
 ---------: Tạo đồng thời di chuyển sang nhánh mới
 Vừa tạo nhành và vừa di chuyển sang nhánh đó luôn
-
+git checkout -p branch_4
 
 
 
