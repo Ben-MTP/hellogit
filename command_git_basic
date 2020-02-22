@@ -8,26 +8,40 @@ remove user,pass,emai:
 git config --list
 remove pass: git config --global --unset user.password
 
+--------:
 clone a reposetory:
 create folder --> save reposetory
 git clone link_reponsetory
 
+--------:
 clone and rename:
 git clone link_reponsetory other_name
 
+--------:
 checking status file:
 git status
 
+--------: Những bước thực hành trên GIT:
+Bước 1: Tạo mới một repository trên remote GIT server --> github.com
+Bước 2: Tạo môt repository trên máy tính và coi là nó rep local
+Bước 3: Tạo môi trường cài đặt git
+Bước 4: remote tới GIT server.
 
-
-
---------
 create a new repository on the command line
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin link_reponsitory
 git push -u origin master
+
+Note*:
+Git pull --rebase
+Git push
+
+Hoặc:
+git pull --rebase origin master
+git pusl origin master
+
 
 or push an existing repository from the command line
 git remote add origin link_reponsitory
