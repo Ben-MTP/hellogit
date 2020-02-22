@@ -71,6 +71,8 @@ local
 remove --> trên server
 kiểm trên trên máy local có bao nhiêu nhánh đang được tiến hành: git branch
 dùng dấu gạch dưới
+Note*: những gì đang trình bày được thao tác trên git local - tức là trên máy tính cá nhân
+khi sử dụng trong remove thì sẽ được sử dụng sau
 
 
 
