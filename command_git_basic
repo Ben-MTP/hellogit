@@ -56,6 +56,8 @@ Thêm những file mới vào những commit tồn tại trước đó
 git commit --amend
 
 ---------: Xem nội dung thay đổi của từng commit
+git log -p
+
 
 
 
