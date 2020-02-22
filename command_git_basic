@@ -44,6 +44,12 @@ Note*: git reset --hard ma_log_commit
 
 
 ---------: Lệnh git checkout[mã commit]
+liệt kê commit trươc đó
+
+---------: Lệnh xem N lệnh commit sau cùng
+git log -n
+git checkout master
+
 
 
 
