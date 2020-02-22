@@ -50,7 +50,6 @@ liệt kê commit trươc đó
 git log -n
 git checkout master
 
-<<<<<<< HEAD
 
 ---------: Git commit --amend
 Thêm những file mới vào những commit tồn tại trước đó
@@ -58,9 +57,11 @@ git commit --amend
 
 ---------: Xem nội dung thay đổi của từng commit
 git log -p
+Enter Q --> to exit terminal
 
-=======
->>>>>>> 35dfec487f6f69d3361d6aaa283467d60b9b3353
+---------: Khi add những file chuẩn bị cho commit sắp tới
+nhưng có cách nào có thể loại bỏ được một số file không mong muốn không?
+-> add file
 
 
 
