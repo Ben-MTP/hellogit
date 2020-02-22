@@ -74,6 +74,19 @@ dùng dấu gạch dưới
 Note*: những gì đang trình bày được thao tác trên git local - tức là trên máy tính cá nhân
 khi sử dụng trong remove thì sẽ được sử dụng sau
 
+---------: Delete branch in local or remote
+git branch -d name_branch
+
+---------: Đổi tên một nhánh trong git:
++ nếu đứng tại nhánh đó đổi tên chính nhánh đó
+git branch -m new_name_branch
+
++ nếu đứng tại nhánh khác và đổi tên của một nhánh khác
+git branch -m old_name_branch new_name_branch
+
+
+---------: Tạo đồng thời di chuyển sang nhánh mới
+Vừa tạo nhành và vừa di chuyển sang nhánh đó luôn
 
 
 
