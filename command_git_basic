@@ -37,9 +37,14 @@ git push -u origin master
 git log
 git log --oneline --> commit in oneline
 
----------
+---------: Tìm commit bị lỗi
 git reset --> remote con tro ve mot vi tri nao do
 git reset ma_log_commit. quay trở lại commit theo con tro HEAD chỉ định.
+Note*: git reset --hard ma_log_commit
+
+
+---------: Lệnh git checkout[mã commit]
+
 
 
 
