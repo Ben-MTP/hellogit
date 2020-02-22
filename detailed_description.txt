@@ -1,0 +1,8 @@
+Enumerating object:
+Counting
+Delta compression using up to 4 threads
+Compressing object --> done
+Writing object
+Total
+reused
+remote resolving deltas | completed with 1 local object
