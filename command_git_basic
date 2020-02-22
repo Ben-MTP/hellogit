@@ -1,0 +1,59 @@
+git config --list
+
+set: username, email, pass:
+git config --global user.username ManhKM
+git config --global user.email minhmanh.office.uet@gmail.com
+ 
+remove user,pass,emai:
+git config --list
+remove pass: git config --global --unset user.password
+
+clone a reposetory:
+create folder --> save reposetory
+git clone link_reponsetory
+
+clone and rename:
+git clone link_reponsetory other_name
+
+checking status file:
+git status
+
+
+
+
+--------
+create a new repository on the command line
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin link_reponsitory
+git push -u origin master
+
+or push an existing repository from the command line
+git remote add origin link_reponsitory
+git push -u origin master
+
+
+git log
+git log --oneline
+
+
+--------
+git status
+git add .  --> change status file in reponsitory
+
+git add . --> all file
+git add -u --> file truoc do
+git add -A --> all file
+
+chuan bi dua file vao lich su
+chup man hinh chuan bi luu
+xanh --> san sang cho viec commit
+
+git commit --> xac nhan tin tuc
+
+git commit -a -m "mess fix something" (add + commit)
+
+
+
+
