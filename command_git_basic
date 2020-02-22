@@ -35,7 +35,12 @@ git push -u origin master
 
 
 git log
-git log --oneline
+git log --oneline --> commit in oneline
+
+---------
+git reset --> remote con tro ve mot vi tri nao do
+HEAD
+
 
 
 --------
