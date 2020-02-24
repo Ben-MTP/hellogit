@@ -43,6 +43,9 @@ Hoặc:  failed to push some refs to
 git pull --rebase origin master
 git pull origin master
 
+Comment: 24/02/2020
+pull --> kéo về
+push --> đẩy lên
 
 or push an existing repository from the command line
 git remote add origin link_reponsitory
