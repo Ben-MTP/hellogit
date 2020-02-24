@@ -37,10 +37,11 @@ git push -u origin master
 Note*:
 Git pull --rebase
 Git push
-
-Hoặc:
+Note*: neu trang thai khong push duoc len remote:
+Erorr: 
+Hoặc:  failed to push some refs to
 git pull --rebase origin master
-git pusl origin master
+git pull origin master
 
 
 or push an existing repository from the command line
